@@ -1,0 +1,1001 @@
+EmpID,Employee,ShiftKey,Date,Crew,Shift,Attended,Gate,TagTime,EventType,Area,BusinessSection,LoadUser,LoadTimestamp
+3450,3450 - Reilly Moyer,03012021P2,2021-01-03,B,Night,1,Deployment,2021-01-03 19:06:38,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3450,3450 - Reilly Moyer,04012021P2,2021-01-04,B,Night,1,Deployment,2021-01-04 19:10:43,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3450,3450 - Reilly Moyer,05012021P2,2021-01-05,B,Night,1,Deployment,2021-01-05 19:12:35,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3450,3450 - Reilly Moyer,06012021P2,2021-01-06,B,Night,1,Deployment,2021-01-06 19:04:40,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3450,3450 - Reilly Moyer,23012021P1,2021-01-23,D,Day,1,Deployment,2021-01-23 07:08:40,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3450,3450 - Reilly Moyer,28012021P2,2021-01-28,B,Night,1,Deployment,2021-01-28 19:09:17,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3450,3450 - Reilly Moyer,29012021P2,2021-01-29,B,Night,1,Deployment,2021-01-29 19:08:49,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3450,3450 - Reilly Moyer,30012021P2,2021-01-30,B,Night,1,Deployment,2021-01-30 19:12:46,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3450,3450 - Reilly Moyer,31012021P2,2021-01-31,B,Night,1,Deployment,2021-01-31 19:11:21,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,14012021P2,2021-01-14,A,Night,1,Deployment,2021-01-14 19:09:47,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,15012021P2,2021-01-15,A,Night,1,Deployment,2021-01-15 19:13:43,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,16012021P2,2021-01-16,A,Night,1,Deployment,2021-01-16 19:18:54,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,17012021P2,2021-01-17,A,Night,1,Deployment,2021-01-17 19:18:33,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,18012021P2,2021-01-18,A,Night,1,Deployment,2021-01-18 19:04:19,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,19012021P2,2021-01-19,A,Night,1,Deployment,2021-01-19 19:14:18,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,20012021P2,2021-01-20,A,Night,1,Deployment,2021-01-20 19:11:17,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,01012021P1,2021-01-01,A,Day,1,Deployment,2021-01-01 07:12:37,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,02012021P1,2021-01-02,A,Day,1,Deployment,2021-01-02 07:10:24,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,03012021P1,2021-01-03,A,Day,1,Deployment,2021-01-03 07:12:28,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,04012021P1,2021-01-04,A,Day,1,Deployment,2021-01-04 07:12:36,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,05012021P1,2021-01-05,A,Day,1,Deployment,2021-01-05 07:09:41,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,06012021P1,2021-01-06,A,Day,1,Deployment,2021-01-06 07:08:25,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,28012021P1,2021-01-28,A,Day,1,Deployment,2021-01-28 07:10:12,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,30012021P1,2021-01-30,A,Day,1,Deployment,2021-01-30 07:12:56,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3481,3481 - Leland Allen,31012021P1,2021-01-31,A,Day,1,Deployment,2021-01-31 07:14:24,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3482,3482 - Cristal Bolton,21012021P2,2021-01-21,C,Night,1,Deployment,2021-01-21 19:15:25,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3482,3482 - Cristal Bolton,23012021P2,2021-01-23,C,Night,1,Deployment,2021-01-23 19:10:01,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3482,3482 - Cristal Bolton,24012021P2,2021-01-24,C,Night,1,Deployment,2021-01-24 19:13:08,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3482,3482 - Cristal Bolton,25012021P2,2021-01-25,C,Night,1,Deployment,2021-01-25 19:15:51,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3482,3482 - Cristal Bolton,26012021P2,2021-01-26,C,Night,1,Deployment,2021-01-26 19:16:40,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3482,3482 - Cristal Bolton,27012021P2,2021-01-27,C,Night,1,Deployment,2021-01-27 19:11:46,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3482,3482 - Cristal Bolton,07012021P1,2021-01-07,C,Day,1,Deployment,2021-01-07 07:11:07,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3482,3482 - Cristal Bolton,08012021P1,2021-01-08,C,Day,1,Deployment,2021-01-08 07:12:46,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3482,3482 - Cristal Bolton,09012021P1,2021-01-09,C,Day,1,Deployment,2021-01-09 07:07:24,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3482,3482 - Cristal Bolton,10012021P1,2021-01-10,C,Day,1,Deployment,2021-01-10 07:11:14,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3482,3482 - Cristal Bolton,11012021P1,2021-01-11,C,Day,1,Deployment,2021-01-11 07:14:59,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3482,3482 - Cristal Bolton,12012021P1,2021-01-12,C,Day,1,Deployment,2021-01-12 07:14:34,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3482,3482 - Cristal Bolton,13012021P1,2021-01-13,C,Day,1,Deployment,2021-01-13 07:10:55,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3484,3484 - Albert Gonzalez,21012021P1,2021-01-21,D,Day,1,Deployment,2021-01-21 07:12:52,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3484,3484 - Albert Gonzalez,22012021P1,2021-01-22,D,Day,1,Deployment,2021-01-22 07:08:42,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3484,3484 - Albert Gonzalez,23012021P1,2021-01-23,D,Day,1,Deployment,2021-01-23 07:14:49,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3484,3484 - Albert Gonzalez,24012021P1,2021-01-24,D,Day,1,Deployment,2021-01-24 07:11:41,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3484,3484 - Albert Gonzalez,25012021P1,2021-01-25,D,Day,1,Deployment,2021-01-25 07:10:54,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3484,3484 - Albert Gonzalez,26012021P1,2021-01-26,D,Day,1,Deployment,2021-01-26 07:10:33,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3484,3484 - Albert Gonzalez,07012021P2,2021-01-07,D,Night,1,Deployment,2021-01-07 19:11:45,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3484,3484 - Albert Gonzalez,08012021P2,2021-01-08,D,Night,1,Deployment,2021-01-08 19:10:13,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3484,3484 - Albert Gonzalez,09012021P2,2021-01-09,D,Night,1,Deployment,2021-01-09 19:14:38,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3484,3484 - Albert Gonzalez,10012021P2,2021-01-10,D,Night,1,Deployment,2021-01-10 19:10:25,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3484,3484 - Albert Gonzalez,11012021P2,2021-01-11,D,Night,1,Deployment,2021-01-11 19:18:22,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3484,3484 - Albert Gonzalez,12012021P2,2021-01-12,D,Night,1,Deployment,2021-01-12 19:17:52,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3484,3484 - Albert Gonzalez,13012021P2,2021-01-13,D,Night,1,Deployment,2021-01-13 19:08:26,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,14012021P2,2021-01-14,A,Night,1,Deployment,2021-01-14 19:12:17,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,15012021P2,2021-01-15,A,Night,1,Deployment,2021-01-15 19:09:24,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,16012021P2,2021-01-16,A,Night,1,Deployment,2021-01-16 19:10:42,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,17012021P2,2021-01-17,A,Night,1,Deployment,2021-01-17 19:20:01,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,19012021P2,2021-01-19,A,Night,1,Deployment,2021-01-19 19:10:46,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,20012021P2,2021-01-20,A,Night,1,Deployment,2021-01-20 19:13:26,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,01012021P1,2021-01-01,A,Day,1,Deployment,2021-01-01 07:14:10,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,02012021P1,2021-01-02,A,Day,1,Deployment,2021-01-02 07:08:00,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,03012021P1,2021-01-03,A,Day,1,Deployment,2021-01-03 07:08:35,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,04012021P1,2021-01-04,A,Day,1,Deployment,2021-01-04 07:07:11,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,05012021P1,2021-01-05,A,Day,1,Deployment,2021-01-05 07:08:27,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,06012021P1,2021-01-06,A,Day,1,Deployment,2021-01-06 07:00:36,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,28012021P1,2021-01-28,A,Day,1,Deployment,2021-01-28 07:14:11,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,29012021P1,2021-01-29,A,Day,1,Deployment,2021-01-29 07:20:13,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,30012021P1,2021-01-30,A,Day,1,Deployment,2021-01-30 07:12:35,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3490,3490 - Weston Preston,31012021P1,2021-01-31,A,Day,1,Deployment,2021-01-31 07:06:20,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,14012021P2,2021-01-14,A,Night,1,Deployment,2021-01-14 19:09:26,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,15012021P2,2021-01-15,A,Night,1,Deployment,2021-01-15 19:10:10,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,16012021P2,2021-01-16,A,Night,1,Deployment,2021-01-16 19:07:56,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,17012021P2,2021-01-17,A,Night,1,Deployment,2021-01-17 19:15:26,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,18012021P2,2021-01-18,A,Night,1,Deployment,2021-01-18 19:15:14,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,19012021P2,2021-01-19,A,Night,1,Deployment,2021-01-19 19:07:23,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,20012021P2,2021-01-20,A,Night,1,Deployment,2021-01-20 19:14:54,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,01012021P1,2021-01-01,A,Day,1,Deployment,2021-01-01 07:18:06,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,02012021P1,2021-01-02,A,Day,1,Deployment,2021-01-02 07:19:37,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,03012021P1,2021-01-03,A,Day,1,Deployment,2021-01-03 07:23:28,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,04012021P1,2021-01-04,A,Day,1,Deployment,2021-01-04 07:08:24,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,05012021P1,2021-01-05,A,Day,1,Deployment,2021-01-05 07:23:18,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,06012021P1,2021-01-06,A,Day,1,Deployment,2021-01-06 07:10:35,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,29012021P1,2021-01-29,A,Day,1,Deployment,2021-01-29 07:09:38,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,30012021P1,2021-01-30,A,Day,1,Deployment,2021-01-30 07:13:18,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,31012021P1,2021-01-31,A,Day,1,Deployment,2021-01-31 07:09:40,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3491,3491 - Lennon Buchanan,08012021P1,2021-01-08,C,Day,1,Deployment,2021-01-08 07:13:36,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,14012021P1,2021-01-14,B,Day,1,Deployment,2021-01-14 07:06:43,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,16012021P1,2021-01-16,B,Day,1,Deployment,2021-01-16 07:11:03,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,17012021P1,2021-01-17,B,Day,1,Deployment,2021-01-17 07:17:09,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,18012021P1,2021-01-18,B,Day,1,Deployment,2021-01-18 07:11:46,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,19012021P1,2021-01-19,B,Day,1,Deployment,2021-01-19 07:12:34,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,20012021P1,2021-01-20,B,Day,1,Deployment,2021-01-20 07:13:54,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,01012021P2,2021-01-01,B,Night,1,Deployment,2021-01-01 19:16:41,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,02012021P2,2021-01-02,B,Night,1,Deployment,2021-01-02 19:05:23,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,03012021P2,2021-01-03,B,Night,1,Deployment,2021-01-03 19:14:20,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,05012021P2,2021-01-05,B,Night,1,Deployment,2021-01-05 19:10:56,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,06012021P2,2021-01-06,B,Night,1,Deployment,2021-01-06 19:12:40,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,28012021P2,2021-01-28,B,Night,1,Deployment,2021-01-28 19:16:14,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,29012021P2,2021-01-29,B,Night,1,Deployment,2021-01-29 19:07:13,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,30012021P2,2021-01-30,B,Night,1,Deployment,2021-01-30 19:07:57,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3492,3492 - Vicente Merritt,31012021P2,2021-01-31,B,Night,1,Deployment,2021-01-31 19:04:15,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3493,3493 - Hugo Clay,21012021P1,2021-01-21,D,Day,1,Deployment,2021-01-21 07:09:48,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3493,3493 - Hugo Clay,22012021P1,2021-01-22,D,Day,1,Deployment,2021-01-22 07:17:19,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3493,3493 - Hugo Clay,23012021P1,2021-01-23,D,Day,1,Deployment,2021-01-23 07:11:31,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3493,3493 - Hugo Clay,24012021P1,2021-01-24,D,Day,1,Deployment,2021-01-24 07:06:38,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3493,3493 - Hugo Clay,25012021P1,2021-01-25,D,Day,1,Deployment,2021-01-25 07:10:03,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3493,3493 - Hugo Clay,26012021P1,2021-01-26,D,Day,1,Deployment,2021-01-26 07:06:03,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3493,3493 - Hugo Clay,27012021P1,2021-01-27,D,Day,1,Deployment,2021-01-27 07:07:30,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3493,3493 - Hugo Clay,31012021P2,2021-01-31,B,Night,1,Deployment,2021-01-31 19:13:33,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3493,3493 - Hugo Clay,07012021P2,2021-01-07,D,Night,1,Deployment,2021-01-07 19:07:18,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3493,3493 - Hugo Clay,08012021P2,2021-01-08,D,Night,1,Deployment,2021-01-08 19:16:27,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3493,3493 - Hugo Clay,10012021P2,2021-01-10,D,Night,1,Deployment,2021-01-10 19:11:43,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3493,3493 - Hugo Clay,11012021P2,2021-01-11,D,Night,1,Deployment,2021-01-11 19:12:21,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3493,3493 - Hugo Clay,12012021P2,2021-01-12,D,Night,1,Deployment,2021-01-12 19:10:53,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3493,3493 - Hugo Clay,13012021P2,2021-01-13,D,Night,1,Deployment,2021-01-13 19:15:05,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3494,3494 - Cohen Raymond,14012021P2,2021-01-14,A,Night,1,Deployment,2021-01-14 19:15:08,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3494,3494 - Cohen Raymond,15012021P2,2021-01-15,A,Night,1,Deployment,2021-01-15 19:13:20,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3494,3494 - Cohen Raymond,16012021P2,2021-01-16,A,Night,1,Deployment,2021-01-16 19:14:16,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3494,3494 - Cohen Raymond,17012021P2,2021-01-17,A,Night,1,Deployment,2021-01-17 19:11:09,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3494,3494 - Cohen Raymond,18012021P2,2021-01-18,A,Night,1,Deployment,2021-01-18 19:14:10,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3494,3494 - Cohen Raymond,19012021P2,2021-01-19,A,Night,1,Deployment,2021-01-19 19:10:39,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3494,3494 - Cohen Raymond,01012021P1,2021-01-01,A,Day,1,Deployment,2021-01-01 07:12:01,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3494,3494 - Cohen Raymond,02012021P1,2021-01-02,A,Day,1,Deployment,2021-01-02 07:10:54,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3494,3494 - Cohen Raymond,03012021P1,2021-01-03,A,Day,1,Deployment,2021-01-03 07:10:10,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3494,3494 - Cohen Raymond,06012021P1,2021-01-06,A,Day,1,Deployment,2021-01-06 07:09:15,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3494,3494 - Cohen Raymond,28012021P1,2021-01-28,A,Day,1,Deployment,2021-01-28 07:13:52,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3494,3494 - Cohen Raymond,29012021P1,2021-01-29,A,Day,1,Deployment,2021-01-29 07:17:15,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3494,3494 - Cohen Raymond,30012021P1,2021-01-30,A,Day,1,Deployment,2021-01-30 07:16:41,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3494,3494 - Cohen Raymond,31012021P1,2021-01-31,A,Day,1,Deployment,2021-01-31 07:06:58,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,14012021P1,2021-01-14,B,Day,1,Deployment,2021-01-14 07:17:09,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,21012021P1,2021-01-21,D,Day,1,Deployment,2021-01-21 07:10:44,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,22012021P1,2021-01-22,D,Day,1,Deployment,2021-01-22 07:14:24,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,23012021P1,2021-01-23,D,Day,1,Deployment,2021-01-23 07:08:23,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,24012021P1,2021-01-24,D,Day,1,Deployment,2021-01-24 07:12:34,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,25012021P1,2021-01-25,D,Day,1,Deployment,2021-01-25 07:13:15,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,26012021P1,2021-01-26,D,Day,1,Deployment,2021-01-26 07:06:04,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,27012021P1,2021-01-27,D,Day,1,Deployment,2021-01-27 07:14:26,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,31012021P2,2021-01-31,B,Night,1,Deployment,2021-01-31 19:17:23,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,07012021P2,2021-01-07,D,Night,1,Deployment,2021-01-07 19:11:18,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,08012021P2,2021-01-08,D,Night,1,Deployment,2021-01-08 19:17:26,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,10012021P2,2021-01-10,D,Night,1,Deployment,2021-01-10 19:11:14,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,11012021P2,2021-01-11,D,Night,1,Deployment,2021-01-11 19:15:24,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,12012021P2,2021-01-12,D,Night,1,Deployment,2021-01-12 19:03:08,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3499,3499 - Maci Frost,13012021P2,2021-01-13,D,Night,1,Deployment,2021-01-13 19:21:41,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3501,3501 - Garrett Zimmerman,21012021P2,2021-01-21,C,Night,1,Deployment,2021-01-21 19:17:59,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3501,3501 - Garrett Zimmerman,22012021P2,2021-01-22,C,Night,1,Deployment,2021-01-22 19:10:52,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3501,3501 - Garrett Zimmerman,23012021P2,2021-01-23,C,Night,1,Deployment,2021-01-23 19:04:07,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3501,3501 - Garrett Zimmerman,24012021P2,2021-01-24,C,Night,1,Deployment,2021-01-24 19:13:09,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3501,3501 - Garrett Zimmerman,25012021P2,2021-01-25,C,Night,1,Deployment,2021-01-25 19:06:13,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3501,3501 - Garrett Zimmerman,26012021P2,2021-01-26,C,Night,1,Deployment,2021-01-26 19:13:47,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3501,3501 - Garrett Zimmerman,27012021P2,2021-01-27,C,Night,1,Deployment,2021-01-27 19:13:39,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3501,3501 - Garrett Zimmerman,07012021P1,2021-01-07,C,Day,1,Deployment,2021-01-07 07:08:14,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3501,3501 - Garrett Zimmerman,08012021P1,2021-01-08,C,Day,1,Deployment,2021-01-08 07:16:29,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3501,3501 - Garrett Zimmerman,10012021P1,2021-01-10,C,Day,1,Deployment,2021-01-10 07:15:13,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3501,3501 - Garrett Zimmerman,11012021P1,2021-01-11,C,Day,1,Deployment,2021-01-11 07:15:54,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3501,3501 - Garrett Zimmerman,12012021P1,2021-01-12,C,Day,1,Deployment,2021-01-12 07:12:02,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3501,3501 - Garrett Zimmerman,13012021P1,2021-01-13,C,Day,1,Deployment,2021-01-13 07:06:20,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,14012021P2,2021-01-14,A,Night,1,Deployment,2021-01-14 19:15:55,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,15012021P2,2021-01-15,A,Night,1,Deployment,2021-01-15 19:10:55,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,16012021P2,2021-01-16,A,Night,1,Deployment,2021-01-16 19:06:26,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,17012021P2,2021-01-17,A,Night,1,Deployment,2021-01-17 19:17:24,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,18012021P2,2021-01-18,A,Night,1,Deployment,2021-01-18 19:20:24,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,19012021P2,2021-01-19,A,Night,1,Deployment,2021-01-19 19:11:50,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,20012021P2,2021-01-20,A,Night,1,Deployment,2021-01-20 19:20:38,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,01012021P1,2021-01-01,A,Day,1,Deployment,2021-01-01 07:12:22,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,04012021P1,2021-01-04,A,Day,1,Deployment,2021-01-04 07:10:29,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,05012021P1,2021-01-05,A,Day,1,Deployment,2021-01-05 07:09:29,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,28012021P1,2021-01-28,A,Day,1,Deployment,2021-01-28 07:18:33,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,29012021P1,2021-01-29,A,Day,1,Deployment,2021-01-29 07:08:53,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,30012021P1,2021-01-30,A,Day,1,Deployment,2021-01-30 07:14:56,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,31012021P1,2021-01-31,A,Day,1,Deployment,2021-01-31 07:09:46,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,07012021P1,2021-01-07,C,Day,1,Deployment,2021-01-07 07:10:10,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3502,3502 - Eugene Marks,10012021P1,2021-01-10,C,Day,1,Deployment,2021-01-10 07:16:07,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3505,3505 - Amaya Hicks,20012021P1,2021-01-20,B,Day,1,Deployment,2021-01-20 07:10:29,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3505,3505 - Amaya Hicks,21012021P1,2021-01-21,D,Day,1,Deployment,2021-01-21 07:10:23,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3505,3505 - Amaya Hicks,22012021P1,2021-01-22,D,Day,1,Deployment,2021-01-22 07:16:32,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3505,3505 - Amaya Hicks,23012021P1,2021-01-23,D,Day,1,Deployment,2021-01-23 07:18:23,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3505,3505 - Amaya Hicks,24012021P1,2021-01-24,D,Day,1,Deployment,2021-01-24 07:14:35,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3505,3505 - Amaya Hicks,26012021P1,2021-01-26,D,Day,1,Deployment,2021-01-26 07:09:23,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3505,3505 - Amaya Hicks,27012021P1,2021-01-27,D,Day,1,Deployment,2021-01-27 07:09:57,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3505,3505 - Amaya Hicks,07012021P2,2021-01-07,D,Night,1,Deployment,2021-01-07 19:12:19,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3505,3505 - Amaya Hicks,08012021P2,2021-01-08,D,Night,1,Deployment,2021-01-08 19:13:17,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3505,3505 - Amaya Hicks,09012021P2,2021-01-09,D,Night,1,Deployment,2021-01-09 19:08:03,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3505,3505 - Amaya Hicks,10012021P2,2021-01-10,D,Night,1,Deployment,2021-01-10 19:14:54,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3505,3505 - Amaya Hicks,11012021P2,2021-01-11,D,Night,1,Deployment,2021-01-11 19:12:21,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3505,3505 - Amaya Hicks,12012021P2,2021-01-12,D,Night,1,Deployment,2021-01-12 19:05:08,Entry,Deployment Area,Surface,Dave,2025-09-11 07:11:44.730361
+3621,3621 - Victoria Franco,21012021P2,2021-01-21,C,Night,1,Cage,2021-01-21 20:04:43,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3621,3621 - Victoria Franco,22012021P2,2021-01-22,C,Night,1,Cage,2021-01-22 20:08:58,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3621,3621 - Victoria Franco,23012021P2,2021-01-23,C,Night,1,Cage,2021-01-23 20:13:16,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3621,3621 - Victoria Franco,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 20:32:54,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3621,3621 - Victoria Franco,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 20:16:23,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3621,3621 - Victoria Franco,26012021P2,2021-01-26,C,Night,1,Cage,2021-01-26 20:05:36,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3621,3621 - Victoria Franco,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 20:16:12,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3621,3621 - Victoria Franco,08012021P1,2021-01-08,C,Day,1,Cage,2021-01-08 08:10:29,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3621,3621 - Victoria Franco,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 08:17:15,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3621,3621 - Victoria Franco,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:19:48,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3621,3621 - Victoria Franco,12012021P1,2021-01-12,C,Day,1,Cage,2021-01-12 08:26:06,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3621,3621 - Victoria Franco,13012021P1,2021-01-13,C,Day,1,Cage,2021-01-13 08:13:45,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 08:30:23,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,15012021P1,2021-01-15,B,Day,1,Cage,2021-01-15 08:23:05,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,16012021P1,2021-01-16,B,Day,1,Cage,2021-01-16 08:06:56,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,17012021P1,2021-01-17,B,Day,1,Cage,2021-01-17 08:36:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 08:17:16,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,19012021P1,2021-01-19,B,Day,1,Cage,2021-01-19 08:05:39,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:30:32,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,01012021P2,2021-01-01,B,Night,1,Cage,2021-01-01 20:34:47,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:13:40,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 20:08:58,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,04012021P2,2021-01-04,B,Night,1,Cage,2021-01-04 20:12:17,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,05012021P2,2021-01-05,B,Night,1,Cage,2021-01-05 20:21:09,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:26:47,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,22012021P1,2021-01-22,D,Day,1,Cage,2021-01-22 08:19:42,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,27012021P1,2021-01-27,D,Day,1,Cage,2021-01-27 08:15:01,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,28012021P2,2021-01-28,B,Night,1,Cage,2021-01-28 20:28:59,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 20:10:52,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:24:19,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3622,3622 - Danika Fleming,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:11:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3623,3623 - Jocelyn Kline,21012021P2,2021-01-21,C,Night,1,Cage,2021-01-21 20:18:19,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3623,3623 - Jocelyn Kline,22012021P2,2021-01-22,C,Night,1,Cage,2021-01-22 20:12:52,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3623,3623 - Jocelyn Kline,23012021P2,2021-01-23,C,Night,1,Cage,2021-01-23 20:13:26,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3623,3623 - Jocelyn Kline,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 20:10:14,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3623,3623 - Jocelyn Kline,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 20:27:27,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3623,3623 - Jocelyn Kline,26012021P2,2021-01-26,C,Night,1,Cage,2021-01-26 20:06:40,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3623,3623 - Jocelyn Kline,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 20:06:36,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3623,3623 - Jocelyn Kline,07012021P1,2021-01-07,C,Day,1,Cage,2021-01-07 08:35:13,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3623,3623 - Jocelyn Kline,08012021P1,2021-01-08,C,Day,1,Cage,2021-01-08 08:23:47,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3623,3623 - Jocelyn Kline,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 07:50:09,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3623,3623 - Jocelyn Kline,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:08:21,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3623,3623 - Jocelyn Kline,11012021P1,2021-01-11,C,Day,1,Cage,2021-01-11 07:55:53,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3623,3623 - Jocelyn Kline,12012021P1,2021-01-12,C,Day,1,Cage,2021-01-12 08:04:30,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3623,3623 - Jocelyn Kline,13012021P1,2021-01-13,C,Day,1,Cage,2021-01-13 07:42:37,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 08:12:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,15012021P1,2021-01-15,B,Day,1,Cage,2021-01-15 08:02:35,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,17012021P1,2021-01-17,B,Day,1,Cage,2021-01-17 08:14:36,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 07:57:45,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,19012021P1,2021-01-19,B,Day,1,Cage,2021-01-19 08:14:50,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:09:51,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,01012021P2,2021-01-01,B,Night,1,Cage,2021-01-01 20:29:01,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:28:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 20:21:51,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,04012021P2,2021-01-04,B,Night,1,Cage,2021-01-04 20:10:44,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,05012021P2,2021-01-05,B,Night,1,Cage,2021-01-05 20:33:51,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,28012021P2,2021-01-28,B,Night,1,Cage,2021-01-28 19:58:28,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 19:59:58,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:13:10,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3624,3624 - Cesar Higgins,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:36:32,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3627,3627 - Ruth Harrell,14012021P2,2021-01-14,A,Night,1,Cage,2021-01-14 20:11:59,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3627,3627 - Ruth Harrell,05012021P1,2021-01-05,A,Day,1,Cage,2021-01-05 08:12:10,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3627,3627 - Ruth Harrell,06012021P1,2021-01-06,A,Day,1,Cage,2021-01-06 07:59:35,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3627,3627 - Ruth Harrell,22012021P2,2021-01-22,C,Night,1,Cage,2021-01-22 20:23:28,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3627,3627 - Ruth Harrell,23012021P2,2021-01-23,C,Night,1,Cage,2021-01-23 20:23:32,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3627,3627 - Ruth Harrell,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 20:21:53,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3627,3627 - Ruth Harrell,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 20:07:42,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3627,3627 - Ruth Harrell,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 20:06:56,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3627,3627 - Ruth Harrell,07012021P1,2021-01-07,C,Day,1,Cage,2021-01-07 08:01:04,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3627,3627 - Ruth Harrell,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 08:14:50,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3627,3627 - Ruth Harrell,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:03:12,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3627,3627 - Ruth Harrell,11012021P1,2021-01-11,C,Day,1,Cage,2021-01-11 08:02:14,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3628,3628 - Peyton Barber,16012021P2,2021-01-16,A,Night,1,Cage,2021-01-16 20:09:46,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3628,3628 - Peyton Barber,21012021P2,2021-01-21,C,Night,1,Cage,2021-01-21 20:09:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3628,3628 - Peyton Barber,22012021P2,2021-01-22,C,Night,1,Cage,2021-01-22 20:08:37,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3628,3628 - Peyton Barber,23012021P2,2021-01-23,C,Night,1,Cage,2021-01-23 20:18:40,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3628,3628 - Peyton Barber,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 20:14:47,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3628,3628 - Peyton Barber,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 20:11:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3628,3628 - Peyton Barber,26012021P2,2021-01-26,C,Night,1,Cage,2021-01-26 20:15:50,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3628,3628 - Peyton Barber,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 20:04:05,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3628,3628 - Peyton Barber,07012021P1,2021-01-07,C,Day,1,Cage,2021-01-07 08:15:03,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3628,3628 - Peyton Barber,08012021P1,2021-01-08,C,Day,1,Cage,2021-01-08 08:15:30,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3628,3628 - Peyton Barber,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 07:58:58,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3628,3628 - Peyton Barber,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:23:57,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3628,3628 - Peyton Barber,11012021P1,2021-01-11,C,Day,1,Cage,2021-01-11 08:05:11,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3628,3628 - Peyton Barber,13012021P1,2021-01-13,C,Day,1,Cage,2021-01-13 08:14:54,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 08:25:39,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,16012021P1,2021-01-16,B,Day,1,Cage,2021-01-16 08:23:15,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,17012021P1,2021-01-17,B,Day,1,Cage,2021-01-17 08:14:21,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 08:10:23,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,19012021P1,2021-01-19,B,Day,1,Cage,2021-01-19 08:23:29,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:20:45,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,01012021P2,2021-01-01,B,Night,1,Cage,2021-01-01 20:07:49,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:06:03,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 19:53:17,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,04012021P2,2021-01-04,B,Night,1,Cage,2021-01-04 20:15:32,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,05012021P2,2021-01-05,B,Night,1,Cage,2021-01-05 20:13:10,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:25:22,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,27012021P1,2021-01-27,D,Day,1,Cage,2021-01-27 08:17:35,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,28012021P2,2021-01-28,B,Night,1,Cage,2021-01-28 20:27:21,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:07:02,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3630,3630 - Stephanie Briggs,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:25:23,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,14012021P2,2021-01-14,A,Night,1,Cage,2021-01-14 20:08:43,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,15012021P2,2021-01-15,A,Night,1,Cage,2021-01-15 20:21:47,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,16012021P2,2021-01-16,A,Night,1,Cage,2021-01-16 19:59:25,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,17012021P2,2021-01-17,A,Night,1,Cage,2021-01-17 20:16:21,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,18012021P2,2021-01-18,A,Night,1,Cage,2021-01-18 19:54:09,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,19012021P2,2021-01-19,A,Night,1,Cage,2021-01-19 20:11:20,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,20012021P2,2021-01-20,A,Night,1,Cage,2021-01-20 20:18:24,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,01012021P1,2021-01-01,A,Day,1,Cage,2021-01-01 08:08:47,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,02012021P1,2021-01-02,A,Day,1,Cage,2021-01-02 08:03:30,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,03012021P1,2021-01-03,A,Day,1,Cage,2021-01-03 08:22:28,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,04012021P1,2021-01-04,A,Day,1,Cage,2021-01-04 08:12:58,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,05012021P1,2021-01-05,A,Day,1,Cage,2021-01-05 08:09:06,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,06012021P1,2021-01-06,A,Day,1,Cage,2021-01-06 08:14:25,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,28012021P1,2021-01-28,A,Day,1,Cage,2021-01-28 08:40:22,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,29012021P1,2021-01-29,A,Day,1,Cage,2021-01-29 08:25:32,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3635,3635 - Kylee Bates,31012021P1,2021-01-31,A,Day,1,Cage,2021-01-31 08:25:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,14012021P2,2021-01-14,A,Night,1,Cage,2021-01-14 20:18:21,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,15012021P2,2021-01-15,A,Night,1,Cage,2021-01-15 20:15:40,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,16012021P2,2021-01-16,A,Night,1,Cage,2021-01-16 19:50:02,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,17012021P2,2021-01-17,A,Night,1,Cage,2021-01-17 20:07:13,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,19012021P2,2021-01-19,A,Night,1,Cage,2021-01-19 20:09:12,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,20012021P2,2021-01-20,A,Night,1,Cage,2021-01-20 19:55:15,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,01012021P1,2021-01-01,A,Day,1,Cage,2021-01-01 08:02:26,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,02012021P1,2021-01-02,A,Day,1,Cage,2021-01-02 07:54:11,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,03012021P1,2021-01-03,A,Day,1,Cage,2021-01-03 08:13:37,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,04012021P1,2021-01-04,A,Day,1,Cage,2021-01-04 08:22:11,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,05012021P1,2021-01-05,A,Day,1,Cage,2021-01-05 08:25:04,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,28012021P1,2021-01-28,A,Day,1,Cage,2021-01-28 08:18:09,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,29012021P1,2021-01-29,A,Day,1,Cage,2021-01-29 08:04:22,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,30012021P1,2021-01-30,A,Day,1,Cage,2021-01-30 07:54:41,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3636,3636 - Marc Chandler,31012021P1,2021-01-31,A,Day,1,Cage,2021-01-31 07:56:26,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 08:01:19,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,15012021P1,2021-01-15,B,Day,1,Cage,2021-01-15 08:05:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,16012021P1,2021-01-16,B,Day,1,Cage,2021-01-16 08:12:24,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,17012021P1,2021-01-17,B,Day,1,Cage,2021-01-17 08:03:52,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 08:17:23,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,19012021P1,2021-01-19,B,Day,1,Cage,2021-01-19 08:11:41,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:14:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,01012021P2,2021-01-01,B,Night,1,Cage,2021-01-01 20:25:24,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:02:12,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 20:18:11,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,04012021P2,2021-01-04,B,Night,1,Cage,2021-01-04 20:13:52,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,05012021P2,2021-01-05,B,Night,1,Cage,2021-01-05 20:10:40,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:22:51,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,28012021P2,2021-01-28,B,Night,1,Cage,2021-01-28 20:22:47,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 20:04:32,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:12:11,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3641,3641 - Kiersten Ellis,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:16:49,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3642,3642 - Karissa Carrillo,14012021P2,2021-01-14,A,Night,1,Cage,2021-01-14 20:11:16,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3642,3642 - Karissa Carrillo,04012021P1,2021-01-04,A,Day,1,Cage,2021-01-04 08:19:51,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3642,3642 - Karissa Carrillo,22012021P2,2021-01-22,C,Night,1,Cage,2021-01-22 20:16:49,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3642,3642 - Karissa Carrillo,23012021P2,2021-01-23,C,Night,1,Cage,2021-01-23 20:32:20,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3642,3642 - Karissa Carrillo,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 19:58:42,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3642,3642 - Karissa Carrillo,26012021P2,2021-01-26,C,Night,1,Cage,2021-01-26 20:12:47,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3642,3642 - Karissa Carrillo,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 20:04:55,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3642,3642 - Karissa Carrillo,08012021P1,2021-01-08,C,Day,1,Cage,2021-01-08 08:20:02,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3642,3642 - Karissa Carrillo,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 07:57:50,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3642,3642 - Karissa Carrillo,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:17:28,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3642,3642 - Karissa Carrillo,11012021P1,2021-01-11,C,Day,1,Cage,2021-01-11 08:07:42,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3642,3642 - Karissa Carrillo,12012021P1,2021-01-12,C,Day,1,Cage,2021-01-12 08:06:40,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3642,3642 - Karissa Carrillo,13012021P1,2021-01-13,C,Day,1,Cage,2021-01-13 07:59:32,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 08:09:21,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,15012021P1,2021-01-15,B,Day,1,Cage,2021-01-15 08:24:51,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,16012021P1,2021-01-16,B,Day,1,Cage,2021-01-16 08:13:45,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,17012021P1,2021-01-17,B,Day,1,Cage,2021-01-17 08:20:17,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 08:30:39,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,19012021P1,2021-01-19,B,Day,1,Cage,2021-01-19 08:16:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:08:25,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,01012021P2,2021-01-01,B,Night,1,Cage,2021-01-01 20:18:40,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:08:33,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 20:08:57,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,04012021P2,2021-01-04,B,Night,1,Cage,2021-01-04 19:58:48,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,05012021P2,2021-01-05,B,Night,1,Cage,2021-01-05 20:23:16,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:10:08,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,28012021P2,2021-01-28,B,Night,1,Cage,2021-01-28 20:15:49,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 20:03:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:18:22,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3643,3643 - Issac Whitehead,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:06:23,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 08:12:35,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,15012021P1,2021-01-15,B,Day,1,Cage,2021-01-15 08:22:47,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,16012021P1,2021-01-16,B,Day,1,Cage,2021-01-16 08:21:54,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,17012021P1,2021-01-17,B,Day,1,Cage,2021-01-17 08:13:47,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 07:56:19,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,19012021P1,2021-01-19,B,Day,1,Cage,2021-01-19 08:43:56,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:31:28,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,01012021P2,2021-01-01,B,Night,1,Cage,2021-01-01 20:21:14,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:06:28,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 20:12:52,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,04012021P2,2021-01-04,B,Night,1,Cage,2021-01-04 20:08:34,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,05012021P2,2021-01-05,B,Night,1,Cage,2021-01-05 20:26:38,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:16:38,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,23012021P1,2021-01-23,D,Day,1,Cage,2021-01-23 08:06:10,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,27012021P1,2021-01-27,D,Day,1,Cage,2021-01-27 08:09:18,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,28012021P2,2021-01-28,B,Night,1,Cage,2021-01-28 20:25:13,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 20:30:00,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:29:17,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:21:34,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3645,3645 - Madyson Rhodes,08012021P2,2021-01-08,D,Night,1,Cage,2021-01-08 20:11:28,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3573,3573 - Jennifer Medeiros,15012021P2,2021-01-15,A,Night,1,Cage,2021-01-15 19:41:35,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3573,3573 - Jennifer Medeiros,17012021P2,2021-01-17,A,Night,1,Cage,2021-01-17 20:16:58,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3573,3573 - Jennifer Medeiros,19012021P2,2021-01-19,A,Night,1,Cage,2021-01-19 20:13:59,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3573,3573 - Jennifer Medeiros,20012021P2,2021-01-20,A,Night,1,Cage,2021-01-20 20:15:24,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3573,3573 - Jennifer Medeiros,01012021P1,2021-01-01,A,Day,1,Cage,2021-01-01 08:14:32,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3573,3573 - Jennifer Medeiros,05012021P1,2021-01-05,A,Day,1,Cage,2021-01-05 08:00:44,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3573,3573 - Jennifer Medeiros,06012021P1,2021-01-06,A,Day,1,Cage,2021-01-06 08:19:34,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3573,3573 - Jennifer Medeiros,28012021P1,2021-01-28,A,Day,1,Cage,2021-01-28 08:20:19,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3577,3577 - Miguel Estremera,16012021P1,2021-01-16,B,Day,1,Cage,2021-01-16 08:20:49,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3577,3577 - Miguel Estremera,21012021P1,2021-01-21,D,Day,1,Cage,2021-01-21 08:23:28,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3577,3577 - Miguel Estremera,22012021P1,2021-01-22,D,Day,1,Cage,2021-01-22 08:20:02,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3577,3577 - Miguel Estremera,23012021P1,2021-01-23,D,Day,1,Cage,2021-01-23 08:09:54,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3577,3577 - Miguel Estremera,24012021P1,2021-01-24,D,Day,1,Cage,2021-01-24 08:13:17,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3577,3577 - Miguel Estremera,27012021P1,2021-01-27,D,Day,1,Cage,2021-01-27 08:14:55,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3577,3577 - Miguel Estremera,08012021P2,2021-01-08,D,Night,1,Cage,2021-01-08 20:15:05,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3577,3577 - Miguel Estremera,10012021P2,2021-01-10,D,Night,1,Cage,2021-01-10 20:23:59,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3577,3577 - Miguel Estremera,11012021P2,2021-01-11,D,Night,1,Cage,2021-01-11 20:20:26,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3577,3577 - Miguel Estremera,12012021P2,2021-01-12,D,Night,1,Cage,2021-01-12 20:34:46,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3577,3577 - Miguel Estremera,13012021P2,2021-01-13,D,Night,1,Cage,2021-01-13 20:36:04,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,14012021P2,2021-01-14,A,Night,1,Cage,2021-01-14 20:14:48,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,15012021P2,2021-01-15,A,Night,1,Cage,2021-01-15 19:35:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,16012021P2,2021-01-16,A,Night,1,Cage,2021-01-16 20:26:22,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,17012021P2,2021-01-17,A,Night,1,Cage,2021-01-17 20:08:36,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,18012021P2,2021-01-18,A,Night,1,Cage,2021-01-18 20:05:59,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,19012021P2,2021-01-19,A,Night,1,Cage,2021-01-19 20:10:01,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,20012021P2,2021-01-20,A,Night,1,Cage,2021-01-20 20:09:32,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,01012021P1,2021-01-01,A,Day,1,Cage,2021-01-01 08:20:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,02012021P1,2021-01-02,A,Day,1,Cage,2021-01-02 07:58:24,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,04012021P1,2021-01-04,A,Day,1,Cage,2021-01-04 08:03:13,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,05012021P1,2021-01-05,A,Day,1,Cage,2021-01-05 08:17:26,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,06012021P1,2021-01-06,A,Day,1,Cage,2021-01-06 08:20:14,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,22012021P2,2021-01-22,C,Night,1,Cage,2021-01-22 20:20:25,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,28012021P1,2021-01-28,A,Day,1,Cage,2021-01-28 08:06:08,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,29012021P1,2021-01-29,A,Day,1,Cage,2021-01-29 08:04:13,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,30012021P1,2021-01-30,A,Day,1,Cage,2021-01-30 08:08:56,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,31012021P1,2021-01-31,A,Day,1,Cage,2021-01-31 08:16:24,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:28:51,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3578,3578 - Clinton Owad,13012021P1,2021-01-13,C,Day,1,Cage,2021-01-13 07:53:32,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3580,3580 - Davion Sanchez,14012021P2,2021-01-14,A,Night,1,Cage,2021-01-14 20:11:48,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3580,3580 - Davion Sanchez,17012021P2,2021-01-17,A,Night,1,Cage,2021-01-17 20:00:40,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3580,3580 - Davion Sanchez,18012021P2,2021-01-18,A,Night,1,Cage,2021-01-18 19:57:29,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3580,3580 - Davion Sanchez,19012021P2,2021-01-19,A,Night,1,Cage,2021-01-19 20:23:40,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3580,3580 - Davion Sanchez,20012021P2,2021-01-20,A,Night,1,Cage,2021-01-20 20:19:27,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3580,3580 - Davion Sanchez,01012021P1,2021-01-01,A,Day,1,Cage,2021-01-01 08:18:30,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3580,3580 - Davion Sanchez,02012021P1,2021-01-02,A,Day,1,Cage,2021-01-02 08:23:13,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3580,3580 - Davion Sanchez,03012021P1,2021-01-03,A,Day,1,Cage,2021-01-03 08:09:12,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3580,3580 - Davion Sanchez,04012021P1,2021-01-04,A,Day,1,Cage,2021-01-04 08:09:40,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3580,3580 - Davion Sanchez,05012021P1,2021-01-05,A,Day,1,Cage,2021-01-05 08:35:51,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3580,3580 - Davion Sanchez,06012021P1,2021-01-06,A,Day,1,Cage,2021-01-06 08:11:32,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3580,3580 - Davion Sanchez,28012021P1,2021-01-28,A,Day,1,Cage,2021-01-28 08:21:21,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3580,3580 - Davion Sanchez,29012021P1,2021-01-29,A,Day,1,Cage,2021-01-29 08:14:04,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3580,3580 - Davion Sanchez,30012021P1,2021-01-30,A,Day,1,Cage,2021-01-30 07:55:31,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 07:53:33,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,15012021P1,2021-01-15,B,Day,1,Cage,2021-01-15 08:08:13,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,16012021P1,2021-01-16,B,Day,1,Cage,2021-01-16 08:24:34,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,17012021P1,2021-01-17,B,Day,1,Cage,2021-01-17 08:21:53,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 08:23:08,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,19012021P1,2021-01-19,B,Day,1,Cage,2021-01-19 08:04:08,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:30:10,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,01012021P2,2021-01-01,B,Night,1,Cage,2021-01-01 20:04:21,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:16:08,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 20:13:54,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,04012021P2,2021-01-04,B,Night,1,Cage,2021-01-04 20:12:16,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:27:23,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,28012021P2,2021-01-28,B,Night,1,Cage,2021-01-28 20:06:57,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 20:00:30,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3581,3581 - Ross Strickland,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:14:12,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,14012021P2,2021-01-14,A,Night,1,Cage,2021-01-14 20:10:00,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,15012021P2,2021-01-15,A,Night,1,Cage,2021-01-15 20:47:46,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,16012021P2,2021-01-16,A,Night,1,Cage,2021-01-16 20:20:46,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,17012021P2,2021-01-17,A,Night,1,Cage,2021-01-17 20:09:54,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,18012021P2,2021-01-18,A,Night,1,Cage,2021-01-18 20:03:26,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,19012021P2,2021-01-19,A,Night,1,Cage,2021-01-19 19:55:12,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,20012021P2,2021-01-20,A,Night,1,Cage,2021-01-20 20:03:45,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,01012021P1,2021-01-01,A,Day,1,Cage,2021-01-01 08:15:09,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,02012021P1,2021-01-02,A,Day,1,Cage,2021-01-02 08:28:16,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,04012021P1,2021-01-04,A,Day,1,Cage,2021-01-04 08:25:13,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,05012021P1,2021-01-05,A,Day,1,Cage,2021-01-05 08:16:17,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,06012021P1,2021-01-06,A,Day,1,Cage,2021-01-06 08:10:46,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 20:16:41,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,29012021P1,2021-01-29,A,Day,1,Cage,2021-01-29 08:08:49,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3582,3582 - Augustus Drake,31012021P1,2021-01-31,A,Day,1,Cage,2021-01-31 08:31:11,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 08:12:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,15012021P1,2021-01-15,B,Day,1,Cage,2021-01-15 08:13:08,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,17012021P1,2021-01-17,B,Day,1,Cage,2021-01-17 07:51:51,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 08:12:03,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:22:22,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,01012021P2,2021-01-01,B,Night,1,Cage,2021-01-01 20:03:19,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:06:30,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 20:21:56,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,04012021P2,2021-01-04,B,Night,1,Cage,2021-01-04 19:59:14,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,05012021P2,2021-01-05,B,Night,1,Cage,2021-01-05 20:24:35,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:08:41,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,27012021P1,2021-01-27,D,Day,1,Cage,2021-01-27 08:10:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 20:02:46,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:17:47,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3584,3584 - Orlando Armstrong,11012021P2,2021-01-11,D,Night,1,Cage,2021-01-11 20:38:36,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,15012021P1,2021-01-15,B,Day,1,Cage,2021-01-15 08:21:49,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,16012021P1,2021-01-16,B,Day,1,Cage,2021-01-16 08:05:21,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,17012021P1,2021-01-17,B,Day,1,Cage,2021-01-17 08:25:21,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,19012021P1,2021-01-19,B,Day,1,Cage,2021-01-19 08:10:50,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:27:45,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:22:04,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 19:44:34,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,04012021P2,2021-01-04,B,Night,1,Cage,2021-01-04 20:03:58,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,05012021P2,2021-01-05,B,Night,1,Cage,2021-01-05 20:23:27,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:15:31,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,28012021P2,2021-01-28,B,Night,1,Cage,2021-01-28 20:03:46,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 20:07:40,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 19:54:56,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:13:07,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3589,3589 - Giovani Roy,09012021P2,2021-01-09,D,Night,1,Cage,2021-01-09 20:36:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,14012021P2,2021-01-14,A,Night,1,Cage,2021-01-14 20:22:03,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,15012021P2,2021-01-15,A,Night,1,Cage,2021-01-15 20:35:54,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,16012021P2,2021-01-16,A,Night,1,Cage,2021-01-16 20:22:49,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,17012021P2,2021-01-17,A,Night,1,Cage,2021-01-17 20:24:16,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,18012021P2,2021-01-18,A,Night,1,Cage,2021-01-18 20:33:44,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,19012021P2,2021-01-19,A,Night,1,Cage,2021-01-19 20:17:46,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,20012021P2,2021-01-20,A,Night,1,Cage,2021-01-20 20:12:08,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,01012021P1,2021-01-01,A,Day,1,Cage,2021-01-01 08:24:20,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,02012021P1,2021-01-02,A,Day,1,Cage,2021-01-02 08:28:32,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,03012021P1,2021-01-03,A,Day,1,Cage,2021-01-03 08:09:12,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,04012021P1,2021-01-04,A,Day,1,Cage,2021-01-04 08:06:47,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,05012021P1,2021-01-05,A,Day,1,Cage,2021-01-05 08:15:23,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,06012021P1,2021-01-06,A,Day,1,Cage,2021-01-06 08:22:19,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 20:21:59,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,28012021P1,2021-01-28,A,Day,1,Cage,2021-01-28 07:59:45,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,30012021P1,2021-01-30,A,Day,1,Cage,2021-01-30 08:33:07,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3590,3590 - Dominik Mullen,31012021P1,2021-01-31,A,Day,1,Cage,2021-01-31 08:07:35,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3593,3593 - Brayden Malone,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:11:21,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3593,3593 - Brayden Malone,21012021P1,2021-01-21,D,Day,1,Cage,2021-01-21 08:04:58,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3593,3593 - Brayden Malone,22012021P1,2021-01-22,D,Day,1,Cage,2021-01-22 08:40:59,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3593,3593 - Brayden Malone,23012021P1,2021-01-23,D,Day,1,Cage,2021-01-23 08:16:25,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3593,3593 - Brayden Malone,24012021P1,2021-01-24,D,Day,1,Cage,2021-01-24 08:05:29,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3593,3593 - Brayden Malone,25012021P1,2021-01-25,D,Day,1,Cage,2021-01-25 08:22:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3593,3593 - Brayden Malone,26012021P1,2021-01-26,D,Day,1,Cage,2021-01-26 08:21:41,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3593,3593 - Brayden Malone,27012021P1,2021-01-27,D,Day,1,Cage,2021-01-27 08:12:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3593,3593 - Brayden Malone,07012021P2,2021-01-07,D,Night,1,Cage,2021-01-07 20:22:24,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3593,3593 - Brayden Malone,08012021P2,2021-01-08,D,Night,1,Cage,2021-01-08 20:05:45,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3593,3593 - Brayden Malone,09012021P2,2021-01-09,D,Night,1,Cage,2021-01-09 20:09:04,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3593,3593 - Brayden Malone,10012021P2,2021-01-10,D,Night,1,Cage,2021-01-10 19:53:54,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3593,3593 - Brayden Malone,11012021P2,2021-01-11,D,Night,1,Cage,2021-01-11 20:00:46,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3593,3593 - Brayden Malone,13012021P2,2021-01-13,D,Night,1,Cage,2021-01-13 20:32:05,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3594,3594 - Maribel Morrison,21012021P2,2021-01-21,C,Night,1,Cage,2021-01-21 20:30:25,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3594,3594 - Maribel Morrison,23012021P2,2021-01-23,C,Night,1,Cage,2021-01-23 20:14:39,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3594,3594 - Maribel Morrison,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 20:30:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3594,3594 - Maribel Morrison,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 20:12:24,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3594,3594 - Maribel Morrison,26012021P2,2021-01-26,C,Night,1,Cage,2021-01-26 20:11:34,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3594,3594 - Maribel Morrison,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 20:14:34,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3594,3594 - Maribel Morrison,07012021P1,2021-01-07,C,Day,1,Cage,2021-01-07 08:12:45,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3594,3594 - Maribel Morrison,08012021P1,2021-01-08,C,Day,1,Cage,2021-01-08 08:11:51,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3594,3594 - Maribel Morrison,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 08:25:26,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3594,3594 - Maribel Morrison,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:15:30,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3594,3594 - Maribel Morrison,11012021P1,2021-01-11,C,Day,1,Cage,2021-01-11 08:21:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3594,3594 - Maribel Morrison,12012021P1,2021-01-12,C,Day,1,Cage,2021-01-12 08:24:19,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 08:17:53,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,15012021P1,2021-01-15,B,Day,1,Cage,2021-01-15 08:04:18,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,16012021P1,2021-01-16,B,Day,1,Cage,2021-01-16 08:00:28,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,17012021P1,2021-01-17,B,Day,1,Cage,2021-01-17 08:15:29,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 08:12:17,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,01012021P2,2021-01-01,B,Night,1,Cage,2021-01-01 20:14:52,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:13:50,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 20:39:50,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,04012021P2,2021-01-04,B,Night,1,Cage,2021-01-04 20:00:42,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,05012021P2,2021-01-05,B,Night,1,Cage,2021-01-05 19:54:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:17:19,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,28012021P2,2021-01-28,B,Night,1,Cage,2021-01-28 20:10:14,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 20:17:10,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:19:50,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:26:50,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3595,3595 - Fisher Stafford,10012021P2,2021-01-10,D,Night,1,Cage,2021-01-10 19:58:56,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3596,3596 - Kellen Medina,21012021P2,2021-01-21,C,Night,1,Cage,2021-01-21 20:08:26,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3596,3596 - Kellen Medina,22012021P2,2021-01-22,C,Night,1,Cage,2021-01-22 20:18:17,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3596,3596 - Kellen Medina,23012021P2,2021-01-23,C,Night,1,Cage,2021-01-23 20:21:42,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3596,3596 - Kellen Medina,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 20:35:56,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3596,3596 - Kellen Medina,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 20:23:33,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3596,3596 - Kellen Medina,26012021P2,2021-01-26,C,Night,1,Cage,2021-01-26 20:13:26,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3596,3596 - Kellen Medina,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 20:05:06,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3596,3596 - Kellen Medina,30012021P1,2021-01-30,A,Day,1,Cage,2021-01-30 08:08:21,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3596,3596 - Kellen Medina,07012021P1,2021-01-07,C,Day,1,Cage,2021-01-07 08:08:04,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3596,3596 - Kellen Medina,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 08:20:33,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3596,3596 - Kellen Medina,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:16:34,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3596,3596 - Kellen Medina,11012021P1,2021-01-11,C,Day,1,Cage,2021-01-11 08:00:46,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3596,3596 - Kellen Medina,12012021P1,2021-01-12,C,Day,1,Cage,2021-01-12 08:09:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3596,3596 - Kellen Medina,13012021P1,2021-01-13,C,Day,1,Cage,2021-01-13 08:22:47,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 08:17:31,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,15012021P1,2021-01-15,B,Day,1,Cage,2021-01-15 08:19:41,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,16012021P1,2021-01-16,B,Day,1,Cage,2021-01-16 08:17:50,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,17012021P1,2021-01-17,B,Day,1,Cage,2021-01-17 08:30:16,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 08:16:22,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,19012021P1,2021-01-19,B,Day,1,Cage,2021-01-19 08:10:08,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:04:51,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:16:30,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 19:49:36,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,04012021P2,2021-01-04,B,Night,1,Cage,2021-01-04 20:12:09,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,05012021P2,2021-01-05,B,Night,1,Cage,2021-01-05 20:11:56,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:00:21,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 20:04:43,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:22:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3597,3597 - Brenton Monroe,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:16:18,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 08:15:01,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,15012021P1,2021-01-15,B,Day,1,Cage,2021-01-15 08:17:04,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,16012021P1,2021-01-16,B,Day,1,Cage,2021-01-16 08:14:56,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,17012021P1,2021-01-17,B,Day,1,Cage,2021-01-17 08:26:26,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 08:15:14,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,19012021P1,2021-01-19,B,Day,1,Cage,2021-01-19 07:59:25,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:30:18,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:17:42,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 20:08:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,04012021P2,2021-01-04,B,Night,1,Cage,2021-01-04 20:01:28,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,05012021P2,2021-01-05,B,Night,1,Cage,2021-01-05 20:17:58,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:12:50,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,28012021P2,2021-01-28,B,Night,1,Cage,2021-01-28 20:29:44,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 20:10:32,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:05:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:22:57,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,08012021P2,2021-01-08,D,Night,1,Cage,2021-01-08 20:23:15,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3598,3598 - Derick Rocha,10012021P2,2021-01-10,D,Night,1,Cage,2021-01-10 20:15:41,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,14012021P2,2021-01-14,A,Night,1,Cage,2021-01-14 20:20:46,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,15012021P2,2021-01-15,A,Night,1,Cage,2021-01-15 20:13:37,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,16012021P2,2021-01-16,A,Night,1,Cage,2021-01-16 20:16:20,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,17012021P2,2021-01-17,A,Night,1,Cage,2021-01-17 20:25:39,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,18012021P2,2021-01-18,A,Night,1,Cage,2021-01-18 20:20:15,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,19012021P2,2021-01-19,A,Night,1,Cage,2021-01-19 20:12:18,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,20012021P2,2021-01-20,A,Night,1,Cage,2021-01-20 20:27:31,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,01012021P1,2021-01-01,A,Day,1,Cage,2021-01-01 07:50:21,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,02012021P1,2021-01-02,A,Day,1,Cage,2021-01-02 08:34:31,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,04012021P1,2021-01-04,A,Day,1,Cage,2021-01-04 07:56:56,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,05012021P1,2021-01-05,A,Day,1,Cage,2021-01-05 08:07:44,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,06012021P1,2021-01-06,A,Day,1,Cage,2021-01-06 08:13:35,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,28012021P1,2021-01-28,A,Day,1,Cage,2021-01-28 08:12:32,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,29012021P1,2021-01-29,A,Day,1,Cage,2021-01-29 08:24:04,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,30012021P1,2021-01-30,A,Day,1,Cage,2021-01-30 08:03:25,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3599,3599 - Elaine Weeks,31012021P1,2021-01-31,A,Day,1,Cage,2021-01-31 08:16:36,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:08:13,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:16:57,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,21012021P1,2021-01-21,D,Day,1,Cage,2021-01-21 08:13:21,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,22012021P1,2021-01-22,D,Day,1,Cage,2021-01-22 08:14:56,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,23012021P1,2021-01-23,D,Day,1,Cage,2021-01-23 08:08:30,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,24012021P1,2021-01-24,D,Day,1,Cage,2021-01-24 08:08:54,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,25012021P1,2021-01-25,D,Day,1,Cage,2021-01-25 08:16:52,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,26012021P1,2021-01-26,D,Day,1,Cage,2021-01-26 08:23:26,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,27012021P1,2021-01-27,D,Day,1,Cage,2021-01-27 08:08:01,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,07012021P2,2021-01-07,D,Night,1,Cage,2021-01-07 20:05:19,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,08012021P2,2021-01-08,D,Night,1,Cage,2021-01-08 20:20:08,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,09012021P2,2021-01-09,D,Night,1,Cage,2021-01-09 20:13:40,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,11012021P2,2021-01-11,D,Night,1,Cage,2021-01-11 20:22:18,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,12012021P2,2021-01-12,D,Night,1,Cage,2021-01-12 20:04:57,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3604,3604 - Kane Owen,13012021P2,2021-01-13,D,Night,1,Cage,2021-01-13 19:56:12,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3605,3605 - Emerson Pitts,04012021P1,2021-01-04,A,Day,1,Cage,2021-01-04 08:08:40,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3605,3605 - Emerson Pitts,21012021P2,2021-01-21,C,Night,1,Cage,2021-01-21 20:06:20,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3605,3605 - Emerson Pitts,22012021P2,2021-01-22,C,Night,1,Cage,2021-01-22 20:13:13,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3605,3605 - Emerson Pitts,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 20:07:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3605,3605 - Emerson Pitts,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 20:21:25,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3605,3605 - Emerson Pitts,26012021P2,2021-01-26,C,Night,1,Cage,2021-01-26 20:11:07,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3605,3605 - Emerson Pitts,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 20:15:30,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3605,3605 - Emerson Pitts,07012021P1,2021-01-07,C,Day,1,Cage,2021-01-07 08:15:35,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3605,3605 - Emerson Pitts,08012021P1,2021-01-08,C,Day,1,Cage,2021-01-08 08:15:57,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3605,3605 - Emerson Pitts,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 08:13:46,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3605,3605 - Emerson Pitts,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:19:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3605,3605 - Emerson Pitts,11012021P1,2021-01-11,C,Day,1,Cage,2021-01-11 08:06:03,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3605,3605 - Emerson Pitts,12012021P1,2021-01-12,C,Day,1,Cage,2021-01-12 08:28:00,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3605,3605 - Emerson Pitts,13012021P1,2021-01-13,C,Day,1,Cage,2021-01-13 08:11:38,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,18012021P2,2021-01-18,A,Night,1,Cage,2021-01-18 20:00:53,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,21012021P2,2021-01-21,C,Night,1,Cage,2021-01-21 20:15:53,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,22012021P2,2021-01-22,C,Night,1,Cage,2021-01-22 20:05:29,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,23012021P2,2021-01-23,C,Night,1,Cage,2021-01-23 20:20:39,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 20:36:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 20:06:08,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,26012021P2,2021-01-26,C,Night,1,Cage,2021-01-26 20:17:19,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 19:56:27,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,07012021P1,2021-01-07,C,Day,1,Cage,2021-01-07 08:18:32,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,08012021P1,2021-01-08,C,Day,1,Cage,2021-01-08 08:05:09,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 08:07:45,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:02:59,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,11012021P1,2021-01-11,C,Day,1,Cage,2021-01-11 08:21:19,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,12012021P1,2021-01-12,C,Day,1,Cage,2021-01-12 08:24:04,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3606,3606 - Clarissa Winters,13012021P1,2021-01-13,C,Day,1,Cage,2021-01-13 08:14:14,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3607,3607 - Frankie Atkins,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 08:05:21,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3607,3607 - Frankie Atkins,16012021P1,2021-01-16,B,Day,1,Cage,2021-01-16 08:29:54,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3607,3607 - Frankie Atkins,17012021P1,2021-01-17,B,Day,1,Cage,2021-01-17 08:06:30,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3607,3607 - Frankie Atkins,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 07:52:23,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3607,3607 - Frankie Atkins,19012021P1,2021-01-19,B,Day,1,Cage,2021-01-19 08:18:35,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3607,3607 - Frankie Atkins,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:02:57,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3607,3607 - Frankie Atkins,01012021P2,2021-01-01,B,Night,1,Cage,2021-01-01 20:23:53,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3607,3607 - Frankie Atkins,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:10:11,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3607,3607 - Frankie Atkins,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 20:20:02,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3607,3607 - Frankie Atkins,28012021P2,2021-01-28,B,Night,1,Cage,2021-01-28 20:28:01,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3607,3607 - Frankie Atkins,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 20:01:55,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3607,3607 - Frankie Atkins,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:08:20,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3607,3607 - Frankie Atkins,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:13:15,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3608,3608 - Ally Zhang,21012021P2,2021-01-21,C,Night,1,Cage,2021-01-21 20:29:23,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3608,3608 - Ally Zhang,22012021P2,2021-01-22,C,Night,1,Cage,2021-01-22 20:07:25,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3608,3608 - Ally Zhang,23012021P2,2021-01-23,C,Night,1,Cage,2021-01-23 20:08:03,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3608,3608 - Ally Zhang,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 20:18:47,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3608,3608 - Ally Zhang,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 20:08:14,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3608,3608 - Ally Zhang,26012021P2,2021-01-26,C,Night,1,Cage,2021-01-26 20:15:32,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3608,3608 - Ally Zhang,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 19:58:29,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3608,3608 - Ally Zhang,07012021P1,2021-01-07,C,Day,1,Cage,2021-01-07 08:36:09,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3608,3608 - Ally Zhang,08012021P1,2021-01-08,C,Day,1,Cage,2021-01-08 08:00:31,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3608,3608 - Ally Zhang,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 08:10:47,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3608,3608 - Ally Zhang,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:13:41,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3608,3608 - Ally Zhang,11012021P1,2021-01-11,C,Day,1,Cage,2021-01-11 08:33:08,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3608,3608 - Ally Zhang,12012021P1,2021-01-12,C,Day,1,Cage,2021-01-12 08:00:45,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3608,3608 - Ally Zhang,13012021P1,2021-01-13,C,Day,1,Cage,2021-01-13 08:33:50,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 08:21:34,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,15012021P1,2021-01-15,B,Day,1,Cage,2021-01-15 08:18:10,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,16012021P1,2021-01-16,B,Day,1,Cage,2021-01-16 08:04:09,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 08:19:43,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,19012021P1,2021-01-19,B,Day,1,Cage,2021-01-19 08:06:46,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:26:40,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,01012021P2,2021-01-01,B,Night,1,Cage,2021-01-01 20:04:17,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:12:52,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 20:08:27,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,04012021P2,2021-01-04,B,Night,1,Cage,2021-01-04 20:04:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,05012021P2,2021-01-05,B,Night,1,Cage,2021-01-05 20:21:25,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:19:21,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,21012021P1,2021-01-21,D,Day,1,Cage,2021-01-21 08:26:05,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,23012021P1,2021-01-23,D,Day,1,Cage,2021-01-23 07:56:12,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,25012021P1,2021-01-25,D,Day,1,Cage,2021-01-25 08:24:39,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,28012021P2,2021-01-28,B,Night,1,Cage,2021-01-28 20:39:03,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 20:09:29,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:32:57,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:11:22,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,07012021P2,2021-01-07,D,Night,1,Cage,2021-01-07 20:00:17,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3610,3610 - Kayley Myers,11012021P2,2021-01-11,D,Night,1,Cage,2021-01-11 20:10:57,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,14012021P2,2021-01-14,A,Night,1,Cage,2021-01-14 20:24:29,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,15012021P2,2021-01-15,A,Night,1,Cage,2021-01-15 20:05:37,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,16012021P2,2021-01-16,A,Night,1,Cage,2021-01-16 20:08:00,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,17012021P2,2021-01-17,A,Night,1,Cage,2021-01-17 20:19:56,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,18012021P2,2021-01-18,A,Night,1,Cage,2021-01-18 20:14:02,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,19012021P2,2021-01-19,A,Night,1,Cage,2021-01-19 20:19:51,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,20012021P2,2021-01-20,A,Night,1,Cage,2021-01-20 20:16:23,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,01012021P1,2021-01-01,A,Day,1,Cage,2021-01-01 08:18:48,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,02012021P1,2021-01-02,A,Day,1,Cage,2021-01-02 08:09:41,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,03012021P1,2021-01-03,A,Day,1,Cage,2021-01-03 08:16:19,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,04012021P1,2021-01-04,A,Day,1,Cage,2021-01-04 08:04:44,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,05012021P1,2021-01-05,A,Day,1,Cage,2021-01-05 08:26:53,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,06012021P1,2021-01-06,A,Day,1,Cage,2021-01-06 08:07:39,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,21012021P2,2021-01-21,C,Night,1,Cage,2021-01-21 20:25:17,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,28012021P1,2021-01-28,A,Day,1,Cage,2021-01-28 08:11:40,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,29012021P1,2021-01-29,A,Day,1,Cage,2021-01-29 08:16:01,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,30012021P1,2021-01-30,A,Day,1,Cage,2021-01-30 08:09:03,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,31012021P1,2021-01-31,A,Day,1,Cage,2021-01-31 08:03:50,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3611,3611 - Rowan Cobb,07012021P1,2021-01-07,C,Day,1,Cage,2021-01-07 07:56:33,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,14012021P2,2021-01-14,A,Night,1,Cage,2021-01-14 20:03:27,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,15012021P2,2021-01-15,A,Night,1,Cage,2021-01-15 20:10:46,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,16012021P2,2021-01-16,A,Night,1,Cage,2021-01-16 20:16:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,17012021P2,2021-01-17,A,Night,1,Cage,2021-01-17 20:24:06,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,18012021P2,2021-01-18,A,Night,1,Cage,2021-01-18 20:09:33,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,19012021P2,2021-01-19,A,Night,1,Cage,2021-01-19 20:05:11,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,20012021P2,2021-01-20,A,Night,1,Cage,2021-01-20 19:59:34,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,01012021P1,2021-01-01,A,Day,1,Cage,2021-01-01 08:18:48,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,02012021P1,2021-01-02,A,Day,1,Cage,2021-01-02 08:27:50,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,03012021P1,2021-01-03,A,Day,1,Cage,2021-01-03 08:26:40,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,04012021P1,2021-01-04,A,Day,1,Cage,2021-01-04 08:21:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,05012021P1,2021-01-05,A,Day,1,Cage,2021-01-05 08:20:23,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,06012021P1,2021-01-06,A,Day,1,Cage,2021-01-06 08:30:59,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 20:17:19,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,29012021P1,2021-01-29,A,Day,1,Cage,2021-01-29 08:20:28,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,30012021P1,2021-01-30,A,Day,1,Cage,2021-01-30 08:10:48,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3613,3613 - Amirah Johnson,31012021P1,2021-01-31,A,Day,1,Cage,2021-01-31 08:00:23,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3614,3614 - Bridget Deleon,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 08:07:10,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3614,3614 - Bridget Deleon,15012021P1,2021-01-15,B,Day,1,Cage,2021-01-15 08:13:55,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3614,3614 - Bridget Deleon,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 08:14:36,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3614,3614 - Bridget Deleon,19012021P1,2021-01-19,B,Day,1,Cage,2021-01-19 08:33:16,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3614,3614 - Bridget Deleon,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 20:14:49,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3614,3614 - Bridget Deleon,05012021P2,2021-01-05,B,Night,1,Cage,2021-01-05 20:25:47,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3614,3614 - Bridget Deleon,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:09:39,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3614,3614 - Bridget Deleon,25012021P1,2021-01-25,D,Day,1,Cage,2021-01-25 08:10:53,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3614,3614 - Bridget Deleon,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 20:00:43,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3614,3614 - Bridget Deleon,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:06:35,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3614,3614 - Bridget Deleon,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:19:16,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3614,3614 - Bridget Deleon,10012021P2,2021-01-10,D,Night,1,Cage,2021-01-10 20:14:05,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,14012021P1,2021-01-14,B,Day,1,Cage,2021-01-14 08:23:26,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,15012021P1,2021-01-15,B,Day,1,Cage,2021-01-15 08:15:49,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,16012021P1,2021-01-16,B,Day,1,Cage,2021-01-16 08:10:29,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,17012021P1,2021-01-17,B,Day,1,Cage,2021-01-17 08:35:29,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,18012021P1,2021-01-18,B,Day,1,Cage,2021-01-18 08:13:04,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,19012021P1,2021-01-19,B,Day,1,Cage,2021-01-19 08:25:38,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,20012021P1,2021-01-20,B,Day,1,Cage,2021-01-20 08:09:59,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,01012021P2,2021-01-01,B,Night,1,Cage,2021-01-01 20:21:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,02012021P2,2021-01-02,B,Night,1,Cage,2021-01-02 20:23:17,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,03012021P2,2021-01-03,B,Night,1,Cage,2021-01-03 20:16:05,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,04012021P2,2021-01-04,B,Night,1,Cage,2021-01-04 19:50:27,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,05012021P2,2021-01-05,B,Night,1,Cage,2021-01-05 20:14:11,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,06012021P2,2021-01-06,B,Night,1,Cage,2021-01-06 20:26:18,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,28012021P2,2021-01-28,B,Night,1,Cage,2021-01-28 20:19:16,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,29012021P2,2021-01-29,B,Night,1,Cage,2021-01-29 20:18:28,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 19:56:47,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:06:48,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3539,3539 - Chaz Bruce,10012021P2,2021-01-10,D,Night,1,Cage,2021-01-10 20:18:07,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,01012021P1,2021-01-01,A,Day,1,Cage,2021-01-01 08:18:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,21012021P2,2021-01-21,C,Night,1,Cage,2021-01-21 20:26:09,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,22012021P2,2021-01-22,C,Night,1,Cage,2021-01-22 20:12:33,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,23012021P2,2021-01-23,C,Night,1,Cage,2021-01-23 20:18:03,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 20:14:10,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 20:04:08,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,26012021P2,2021-01-26,C,Night,1,Cage,2021-01-26 19:51:27,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 20:18:19,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,07012021P1,2021-01-07,C,Day,1,Cage,2021-01-07 08:15:44,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,08012021P1,2021-01-08,C,Day,1,Cage,2021-01-08 08:07:49,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 07:57:48,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:20:18,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,11012021P1,2021-01-11,C,Day,1,Cage,2021-01-11 08:11:20,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,12012021P1,2021-01-12,C,Day,1,Cage,2021-01-12 08:19:34,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3540,3540 - Maya Mccann,13012021P1,2021-01-13,C,Day,1,Cage,2021-01-13 08:32:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,15012021P2,2021-01-15,A,Night,1,Cage,2021-01-15 19:52:35,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,16012021P2,2021-01-16,A,Night,1,Cage,2021-01-16 20:07:00,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,17012021P2,2021-01-17,A,Night,1,Cage,2021-01-17 20:11:54,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,18012021P2,2021-01-18,A,Night,1,Cage,2021-01-18 20:28:33,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,19012021P2,2021-01-19,A,Night,1,Cage,2021-01-19 19:57:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,20012021P2,2021-01-20,A,Night,1,Cage,2021-01-20 20:33:22,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,02012021P1,2021-01-02,A,Day,1,Cage,2021-01-02 08:15:22,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,03012021P1,2021-01-03,A,Day,1,Cage,2021-01-03 08:13:02,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,04012021P1,2021-01-04,A,Day,1,Cage,2021-01-04 08:12:01,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,05012021P1,2021-01-05,A,Day,1,Cage,2021-01-05 08:09:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,06012021P1,2021-01-06,A,Day,1,Cage,2021-01-06 08:24:29,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 20:03:19,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,29012021P1,2021-01-29,A,Day,1,Cage,2021-01-29 08:17:27,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,30012021P1,2021-01-30,A,Day,1,Cage,2021-01-30 08:10:09,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,31012021P1,2021-01-31,A,Day,1,Cage,2021-01-31 08:06:23,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3541,3541 - Aaron Weber,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 08:39:52,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3543,3543 - Rayne Kerr,21012021P2,2021-01-21,C,Night,1,Cage,2021-01-21 20:18:11,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3543,3543 - Rayne Kerr,22012021P2,2021-01-22,C,Night,1,Cage,2021-01-22 20:20:08,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3543,3543 - Rayne Kerr,23012021P2,2021-01-23,C,Night,1,Cage,2021-01-23 20:25:23,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3543,3543 - Rayne Kerr,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 19:59:47,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3543,3543 - Rayne Kerr,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 20:31:31,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3543,3543 - Rayne Kerr,26012021P2,2021-01-26,C,Night,1,Cage,2021-01-26 19:48:55,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3543,3543 - Rayne Kerr,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 20:06:19,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3543,3543 - Rayne Kerr,07012021P1,2021-01-07,C,Day,1,Cage,2021-01-07 08:09:25,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3543,3543 - Rayne Kerr,08012021P1,2021-01-08,C,Day,1,Cage,2021-01-08 08:19:49,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3543,3543 - Rayne Kerr,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 08:16:11,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3543,3543 - Rayne Kerr,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:12:20,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3543,3543 - Rayne Kerr,12012021P1,2021-01-12,C,Day,1,Cage,2021-01-12 08:13:53,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,15012021P2,2021-01-15,A,Night,1,Cage,2021-01-15 20:04:13,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,16012021P2,2021-01-16,A,Night,1,Cage,2021-01-16 19:59:02,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,17012021P2,2021-01-17,A,Night,1,Cage,2021-01-17 20:21:16,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,18012021P2,2021-01-18,A,Night,1,Cage,2021-01-18 20:20:56,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,19012021P2,2021-01-19,A,Night,1,Cage,2021-01-19 20:29:51,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,20012021P2,2021-01-20,A,Night,1,Cage,2021-01-20 20:06:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,01012021P1,2021-01-01,A,Day,1,Cage,2021-01-01 08:20:56,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,03012021P1,2021-01-03,A,Day,1,Cage,2021-01-03 08:11:10,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,04012021P1,2021-01-04,A,Day,1,Cage,2021-01-04 08:25:54,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,05012021P1,2021-01-05,A,Day,1,Cage,2021-01-05 08:24:13,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,06012021P1,2021-01-06,A,Day,1,Cage,2021-01-06 08:16:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 20:10:36,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,28012021P1,2021-01-28,A,Day,1,Cage,2021-01-28 08:23:37,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,30012021P1,2021-01-30,A,Day,1,Cage,2021-01-30 08:20:28,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,31012021P1,2021-01-31,A,Day,1,Cage,2021-01-31 08:07:09,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3551,3551 - Emery Roach,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:00:43,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3553,3553 - Khalil Mendez,21012021P1,2021-01-21,D,Day,1,Cage,2021-01-21 08:11:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3553,3553 - Khalil Mendez,22012021P1,2021-01-22,D,Day,1,Cage,2021-01-22 08:29:09,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3553,3553 - Khalil Mendez,23012021P1,2021-01-23,D,Day,1,Cage,2021-01-23 08:25:28,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3553,3553 - Khalil Mendez,24012021P1,2021-01-24,D,Day,1,Cage,2021-01-24 08:02:53,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3553,3553 - Khalil Mendez,25012021P1,2021-01-25,D,Day,1,Cage,2021-01-25 08:02:19,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3553,3553 - Khalil Mendez,26012021P1,2021-01-26,D,Day,1,Cage,2021-01-26 08:26:45,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3553,3553 - Khalil Mendez,27012021P1,2021-01-27,D,Day,1,Cage,2021-01-27 08:02:39,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3553,3553 - Khalil Mendez,30012021P2,2021-01-30,B,Night,1,Cage,2021-01-30 20:19:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3553,3553 - Khalil Mendez,07012021P2,2021-01-07,D,Night,1,Cage,2021-01-07 20:07:50,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3553,3553 - Khalil Mendez,08012021P2,2021-01-08,D,Night,1,Cage,2021-01-08 20:30:10,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3553,3553 - Khalil Mendez,09012021P2,2021-01-09,D,Night,1,Cage,2021-01-09 20:06:18,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3553,3553 - Khalil Mendez,10012021P2,2021-01-10,D,Night,1,Cage,2021-01-10 20:25:26,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3553,3553 - Khalil Mendez,11012021P2,2021-01-11,D,Night,1,Cage,2021-01-11 20:15:51,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3553,3553 - Khalil Mendez,12012021P2,2021-01-12,D,Night,1,Cage,2021-01-12 20:16:31,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3554,3554 - Lizeth Holland,22012021P1,2021-01-22,D,Day,1,Cage,2021-01-22 07:54:18,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3554,3554 - Lizeth Holland,23012021P1,2021-01-23,D,Day,1,Cage,2021-01-23 07:51:58,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3554,3554 - Lizeth Holland,24012021P1,2021-01-24,D,Day,1,Cage,2021-01-24 08:11:48,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3554,3554 - Lizeth Holland,25012021P1,2021-01-25,D,Day,1,Cage,2021-01-25 08:16:28,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3554,3554 - Lizeth Holland,26012021P1,2021-01-26,D,Day,1,Cage,2021-01-26 08:02:45,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3554,3554 - Lizeth Holland,27012021P1,2021-01-27,D,Day,1,Cage,2021-01-27 08:03:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3554,3554 - Lizeth Holland,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:19:37,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3554,3554 - Lizeth Holland,07012021P2,2021-01-07,D,Night,1,Cage,2021-01-07 20:19:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3554,3554 - Lizeth Holland,09012021P2,2021-01-09,D,Night,1,Cage,2021-01-09 20:12:37,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3554,3554 - Lizeth Holland,10012021P2,2021-01-10,D,Night,1,Cage,2021-01-10 20:21:48,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3554,3554 - Lizeth Holland,12012021P2,2021-01-12,D,Night,1,Cage,2021-01-12 20:02:15,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3557,3557 - Nicholas Obrien,21012021P2,2021-01-21,C,Night,1,Cage,2021-01-21 20:10:26,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3557,3557 - Nicholas Obrien,22012021P2,2021-01-22,C,Night,1,Cage,2021-01-22 20:30:29,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3557,3557 - Nicholas Obrien,23012021P2,2021-01-23,C,Night,1,Cage,2021-01-23 20:14:41,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3557,3557 - Nicholas Obrien,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 20:15:16,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3557,3557 - Nicholas Obrien,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 20:37:04,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3557,3557 - Nicholas Obrien,26012021P2,2021-01-26,C,Night,1,Cage,2021-01-26 20:00:00,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3557,3557 - Nicholas Obrien,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 20:21:58,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3557,3557 - Nicholas Obrien,07012021P1,2021-01-07,C,Day,1,Cage,2021-01-07 08:30:38,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3557,3557 - Nicholas Obrien,08012021P1,2021-01-08,C,Day,1,Cage,2021-01-08 08:10:45,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3557,3557 - Nicholas Obrien,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 08:22:36,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3557,3557 - Nicholas Obrien,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:04:11,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3557,3557 - Nicholas Obrien,11012021P1,2021-01-11,C,Day,1,Cage,2021-01-11 08:07:08,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3557,3557 - Nicholas Obrien,12012021P1,2021-01-12,C,Day,1,Cage,2021-01-12 08:17:51,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3557,3557 - Nicholas Obrien,13012021P1,2021-01-13,C,Day,1,Cage,2021-01-13 08:21:59,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3558,3558 - Mildred Gentry,21012021P1,2021-01-21,D,Day,1,Cage,2021-01-21 08:25:13,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3558,3558 - Mildred Gentry,22012021P1,2021-01-22,D,Day,1,Cage,2021-01-22 08:29:42,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3558,3558 - Mildred Gentry,23012021P1,2021-01-23,D,Day,1,Cage,2021-01-23 08:13:20,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3558,3558 - Mildred Gentry,24012021P1,2021-01-24,D,Day,1,Cage,2021-01-24 08:25:56,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3558,3558 - Mildred Gentry,25012021P1,2021-01-25,D,Day,1,Cage,2021-01-25 08:10:35,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3558,3558 - Mildred Gentry,26012021P1,2021-01-26,D,Day,1,Cage,2021-01-26 08:23:01,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3558,3558 - Mildred Gentry,27012021P1,2021-01-27,D,Day,1,Cage,2021-01-27 08:16:04,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3558,3558 - Mildred Gentry,07012021P2,2021-01-07,D,Night,1,Cage,2021-01-07 20:18:27,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3558,3558 - Mildred Gentry,08012021P2,2021-01-08,D,Night,1,Cage,2021-01-08 20:18:14,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3558,3558 - Mildred Gentry,09012021P2,2021-01-09,D,Night,1,Cage,2021-01-09 19:57:57,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3558,3558 - Mildred Gentry,10012021P2,2021-01-10,D,Night,1,Cage,2021-01-10 20:02:46,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3558,3558 - Mildred Gentry,11012021P2,2021-01-11,D,Night,1,Cage,2021-01-11 20:15:02,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3558,3558 - Mildred Gentry,12012021P2,2021-01-12,D,Night,1,Cage,2021-01-12 19:57:08,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3558,3558 - Mildred Gentry,13012021P2,2021-01-13,D,Night,1,Cage,2021-01-13 20:22:19,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,21012021P1,2021-01-21,D,Day,1,Cage,2021-01-21 08:22:43,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,22012021P1,2021-01-22,D,Day,1,Cage,2021-01-22 08:17:16,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,23012021P1,2021-01-23,D,Day,1,Cage,2021-01-23 08:02:47,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,24012021P1,2021-01-24,D,Day,1,Cage,2021-01-24 08:27:48,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,25012021P1,2021-01-25,D,Day,1,Cage,2021-01-25 08:34:22,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,26012021P1,2021-01-26,D,Day,1,Cage,2021-01-26 08:15:28,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,27012021P1,2021-01-27,D,Day,1,Cage,2021-01-27 08:19:06,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,31012021P2,2021-01-31,B,Night,1,Cage,2021-01-31 20:16:01,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,07012021P2,2021-01-07,D,Night,1,Cage,2021-01-07 20:19:18,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,08012021P2,2021-01-08,D,Night,1,Cage,2021-01-08 20:12:48,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,09012021P2,2021-01-09,D,Night,1,Cage,2021-01-09 20:13:39,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,10012021P2,2021-01-10,D,Night,1,Cage,2021-01-10 20:23:03,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,11012021P2,2021-01-11,D,Night,1,Cage,2021-01-11 20:37:27,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,12012021P2,2021-01-12,D,Night,1,Cage,2021-01-12 20:00:00,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3562,3562 - Jean Crimmings,13012021P2,2021-01-13,D,Night,1,Cage,2021-01-13 20:12:58,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3563,3563 - Nore Sadki,21012021P2,2021-01-21,C,Night,1,Cage,2021-01-21 20:02:12,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3563,3563 - Nore Sadki,22012021P2,2021-01-22,C,Night,1,Cage,2021-01-22 20:29:55,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3563,3563 - Nore Sadki,23012021P2,2021-01-23,C,Night,1,Cage,2021-01-23 20:08:07,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3563,3563 - Nore Sadki,24012021P2,2021-01-24,C,Night,1,Cage,2021-01-24 19:59:34,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3563,3563 - Nore Sadki,25012021P2,2021-01-25,C,Night,1,Cage,2021-01-25 20:20:23,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3563,3563 - Nore Sadki,26012021P2,2021-01-26,C,Night,1,Cage,2021-01-26 20:31:27,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3563,3563 - Nore Sadki,27012021P2,2021-01-27,C,Night,1,Cage,2021-01-27 20:20:38,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3563,3563 - Nore Sadki,07012021P1,2021-01-07,C,Day,1,Cage,2021-01-07 08:16:03,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3563,3563 - Nore Sadki,08012021P1,2021-01-08,C,Day,1,Cage,2021-01-08 08:18:05,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3563,3563 - Nore Sadki,09012021P1,2021-01-09,C,Day,1,Cage,2021-01-09 08:28:09,Entry,Underground,Underground1,Dave,2025-09-11 07:11:44.730361
+3563,3563 - Nore Sadki,10012021P1,2021-01-10,C,Day,1,Cage,2021-01-10 08:05:15,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3563,3563 - Nore Sadki,11012021P1,2021-01-11,C,Day,1,Cage,2021-01-11 08:12:53,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3563,3563 - Nore Sadki,12012021P1,2021-01-12,C,Day,1,Cage,2021-01-12 08:09:28,Entry,Underground,Underground2,Dave,2025-09-11 07:11:44.730361
+3506,3506 - Laila Woodard,18022021P2,2021-02-18,C,Night,1,Perimeter,2021-02-18 18:43:38,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3506,3506 - Laila Woodard,19022021P2,2021-02-19,C,Night,1,Perimeter,2021-02-19 18:37:02,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3506,3506 - Laila Woodard,20022021P2,2021-02-20,C,Night,1,Perimeter,2021-02-20 18:43:03,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3506,3506 - Laila Woodard,21022021P2,2021-02-21,C,Night,1,Perimeter,2021-02-21 18:32:17,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3506,3506 - Laila Woodard,22022021P2,2021-02-22,C,Night,1,Perimeter,2021-02-22 18:51:03,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3506,3506 - Laila Woodard,23022021P2,2021-02-23,C,Night,1,Perimeter,2021-02-23 18:41:34,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3506,3506 - Laila Woodard,24022021P2,2021-02-24,C,Night,1,Perimeter,2021-02-24 18:50:50,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3506,3506 - Laila Woodard,04022021P1,2021-02-04,C,Day,1,Perimeter,2021-02-04 06:39:19,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3506,3506 - Laila Woodard,05022021P1,2021-02-05,C,Day,1,Perimeter,2021-02-05 06:39:20,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3506,3506 - Laila Woodard,06022021P1,2021-02-06,C,Day,1,Perimeter,2021-02-06 06:37:39,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3506,3506 - Laila Woodard,07022021P1,2021-02-07,C,Day,1,Perimeter,2021-02-07 06:49:08,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3506,3506 - Laila Woodard,08022021P1,2021-02-08,C,Day,1,Perimeter,2021-02-08 06:38:02,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3506,3506 - Laila Woodard,09022021P1,2021-02-09,C,Day,1,Perimeter,2021-02-09 06:47:31,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3506,3506 - Laila Woodard,10022021P1,2021-02-10,C,Day,1,Perimeter,2021-02-10 06:40:19,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3507,3507 - Ivan Huff,05022021P2,2021-02-05,D,Night,1,Perimeter,2021-02-05 18:29:10,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3507,3507 - Ivan Huff,07022021P2,2021-02-07,D,Night,1,Perimeter,2021-02-07 18:39:00,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3507,3507 - Ivan Huff,09022021P2,2021-02-09,D,Night,1,Perimeter,2021-02-09 18:34:45,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3507,3507 - Ivan Huff,10022021P2,2021-02-10,D,Night,1,Perimeter,2021-02-10 18:43:14,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3507,3507 - Ivan Huff,18022021P1,2021-02-18,D,Day,1,Perimeter,2021-02-18 06:34:40,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3507,3507 - Ivan Huff,19022021P1,2021-02-19,D,Day,1,Perimeter,2021-02-19 06:49:29,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3507,3507 - Ivan Huff,20022021P1,2021-02-20,D,Day,1,Perimeter,2021-02-20 06:42:22,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3507,3507 - Ivan Huff,22022021P1,2021-02-22,D,Day,1,Perimeter,2021-02-22 06:41:45,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3507,3507 - Ivan Huff,24022021P1,2021-02-24,D,Day,1,Perimeter,2021-02-24 06:47:35,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,02022021P1,2021-02-02,A,Day,1,Perimeter,2021-02-02 06:49:45,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,17022021P2,2021-02-17,A,Night,1,Perimeter,2021-02-17 18:42:52,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,18022021P2,2021-02-18,C,Night,1,Perimeter,2021-02-18 18:37:36,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,19022021P2,2021-02-19,C,Night,1,Perimeter,2021-02-19 18:30:35,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,20022021P2,2021-02-20,C,Night,1,Perimeter,2021-02-20 18:38:12,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,21022021P2,2021-02-21,C,Night,1,Perimeter,2021-02-21 18:38:41,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,22022021P2,2021-02-22,C,Night,1,Perimeter,2021-02-22 18:43:45,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,23022021P2,2021-02-23,C,Night,1,Perimeter,2021-02-23 18:40:35,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,24022021P2,2021-02-24,C,Night,1,Perimeter,2021-02-24 18:47:49,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,04022021P1,2021-02-04,C,Day,1,Perimeter,2021-02-04 06:38:43,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,05022021P1,2021-02-05,C,Day,1,Perimeter,2021-02-05 06:42:36,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,06022021P1,2021-02-06,C,Day,1,Perimeter,2021-02-06 06:51:17,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,07022021P1,2021-02-07,C,Day,1,Perimeter,2021-02-07 06:45:24,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,08022021P1,2021-02-08,C,Day,1,Perimeter,2021-02-08 06:42:35,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,09022021P1,2021-02-09,C,Day,1,Perimeter,2021-02-09 06:38:47,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3510,3510 - Raven Koch,10022021P1,2021-02-10,C,Day,1,Perimeter,2021-02-10 06:38:34,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3514,3514 - Alexus Estes,01022021P1,2021-02-01,A,Day,1,Perimeter,2021-02-01 06:37:03,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3514,3514 - Alexus Estes,03022021P1,2021-02-03,A,Day,1,Perimeter,2021-02-03 06:39:13,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3514,3514 - Alexus Estes,12022021P2,2021-02-12,A,Night,1,Perimeter,2021-02-12 18:48:17,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3514,3514 - Alexus Estes,13022021P2,2021-02-13,A,Night,1,Perimeter,2021-02-13 18:41:27,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3514,3514 - Alexus Estes,15022021P2,2021-02-15,A,Night,1,Perimeter,2021-02-15 18:33:33,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3514,3514 - Alexus Estes,17022021P2,2021-02-17,A,Night,1,Perimeter,2021-02-17 18:55:23,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3514,3514 - Alexus Estes,25022021P1,2021-02-25,A,Day,1,Perimeter,2021-02-25 06:45:14,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3514,3514 - Alexus Estes,26022021P1,2021-02-26,A,Day,1,Perimeter,2021-02-26 06:33:09,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3514,3514 - Alexus Estes,27022021P1,2021-02-27,A,Day,1,Perimeter,2021-02-27 06:39:54,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3514,3514 - Alexus Estes,28022021P1,2021-02-28,A,Day,1,Perimeter,2021-02-28 06:43:47,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3514,3514 - Alexus Estes,23022021P2,2021-02-23,C,Night,1,Perimeter,2021-02-23 18:54:56,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,27022021P1,2021-02-27,A,Day,1,Perimeter,2021-02-27 06:35:15,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,18022021P2,2021-02-18,C,Night,1,Perimeter,2021-02-18 18:49:50,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,19022021P2,2021-02-19,C,Night,1,Perimeter,2021-02-19 18:52:48,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,20022021P2,2021-02-20,C,Night,1,Perimeter,2021-02-20 18:38:36,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,21022021P2,2021-02-21,C,Night,1,Perimeter,2021-02-21 18:41:03,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,22022021P2,2021-02-22,C,Night,1,Perimeter,2021-02-22 18:35:45,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,23022021P2,2021-02-23,C,Night,1,Perimeter,2021-02-23 18:41:35,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,24022021P2,2021-02-24,C,Night,1,Perimeter,2021-02-24 18:42:45,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,04022021P1,2021-02-04,C,Day,1,Perimeter,2021-02-04 06:47:37,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,05022021P1,2021-02-05,C,Day,1,Perimeter,2021-02-05 06:50:38,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,06022021P1,2021-02-06,C,Day,1,Perimeter,2021-02-06 06:37:46,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,07022021P1,2021-02-07,C,Day,1,Perimeter,2021-02-07 06:29:14,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,08022021P1,2021-02-08,C,Day,1,Perimeter,2021-02-08 06:42:51,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,09022021P1,2021-02-09,C,Day,1,Perimeter,2021-02-09 06:45:03,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3517,3517 - Milagros Francis,10022021P1,2021-02-10,C,Day,1,Perimeter,2021-02-10 06:44:45,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3520,3520 - Caiden Munoz,18022021P2,2021-02-18,C,Night,1,Perimeter,2021-02-18 18:40:43,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3520,3520 - Caiden Munoz,20022021P2,2021-02-20,C,Night,1,Perimeter,2021-02-20 18:43:52,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3520,3520 - Caiden Munoz,23022021P2,2021-02-23,C,Night,1,Perimeter,2021-02-23 18:53:36,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3520,3520 - Caiden Munoz,24022021P2,2021-02-24,C,Night,1,Perimeter,2021-02-24 18:45:40,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3520,3520 - Caiden Munoz,04022021P1,2021-02-04,C,Day,1,Perimeter,2021-02-04 06:40:23,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3520,3520 - Caiden Munoz,05022021P1,2021-02-05,C,Day,1,Perimeter,2021-02-05 06:39:30,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3520,3520 - Caiden Munoz,06022021P1,2021-02-06,C,Day,1,Perimeter,2021-02-06 06:41:49,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3520,3520 - Caiden Munoz,07022021P1,2021-02-07,C,Day,1,Perimeter,2021-02-07 06:54:27,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3520,3520 - Caiden Munoz,08022021P1,2021-02-08,C,Day,1,Perimeter,2021-02-08 06:41:43,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3520,3520 - Caiden Munoz,10022021P1,2021-02-10,C,Day,1,Perimeter,2021-02-10 06:42:52,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3521,3521 - Jocelyn Bradford,01022021P1,2021-02-01,A,Day,1,Perimeter,2021-02-01 06:39:37,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3521,3521 - Jocelyn Bradford,02022021P1,2021-02-02,A,Day,1,Perimeter,2021-02-02 06:50:42,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3521,3521 - Jocelyn Bradford,03022021P1,2021-02-03,A,Day,1,Perimeter,2021-02-03 06:56:43,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3521,3521 - Jocelyn Bradford,11022021P2,2021-02-11,A,Night,1,Perimeter,2021-02-11 18:46:09,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3521,3521 - Jocelyn Bradford,12022021P2,2021-02-12,A,Night,1,Perimeter,2021-02-12 18:43:35,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3521,3521 - Jocelyn Bradford,13022021P2,2021-02-13,A,Night,1,Perimeter,2021-02-13 18:43:15,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3521,3521 - Jocelyn Bradford,14022021P2,2021-02-14,A,Night,1,Perimeter,2021-02-14 18:26:19,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3521,3521 - Jocelyn Bradford,15022021P2,2021-02-15,A,Night,1,Perimeter,2021-02-15 18:48:13,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
+3521,3521 - Jocelyn Bradford,16022021P2,2021-02-16,A,Night,1,Perimeter,2021-02-16 18:43:56,Entry,Surface Changehouses,Surface,Dave,2025-09-11 07:20:11.664058
